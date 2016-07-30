@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Addons</key>
+	<string>Shtesa</string>
+	<key>Administration</key>
+	<string>Administrim</string>
+	<key>App Addons</key>
+	<string>Shtesa për app</string>
+	<key>Archiving</key>
+	<string>Arkivim</string>
+	<key>Battery</key>
+	<string>Bateria</string>
+	<key>Books</key>
+	<string>Libra</string>
+	<key>Carrier Bundles</key>
+	<string>Paketa operatorësh</string>
+	<key>Carriers</key>
+	<string>Operatorë</string>
+	<key>Complete</key>
+	<string>Të Plotësuara</string>
+	<key>Data Storage</key>
+	<string>Ruajtje e të Dhënave</string>
+	<key>Development</key>
+	<string>Zhvillim</string>
+	<key>Dialer</key>
+	<string>Numratori</string>
+	<key>Dictionaries</key>
+	<string>Fjalorë</string>
+	<key>Dock</key>
+	<string>Dock-u</string>
+	<key>Education</key>
+	<string>Edukim</string>
+	<key>Emulation</key>
+	<string>Emulim</string>
+	<key>Entertainment</key>
+	<string>Argëtim</string>
+	<key>Fonts</key>
+	<string>Fonte</string>
+	<key>Games</key>
+	<string>Lojëra</string>
+	<key>Icy</key>
+	<string>Icy</string>
+	<key>Java</key>
+	<string>Java</string>
+	<key>Keyboards</key>
+	<string>Tastiera</string>
+	<key>Localization</key>
+	<string>Lokalizim</string>
+	<key>LockScreen</key>
+	<string>Ekrani i Bllokuar</string>
+	<key>Messaging</key>
+	<string>Mesazhe</string>
+	<key>Multimedia</key>
+	<string>Multimedia</string>
+	<key>Navigation</key>
+	<string>Navigim</string>
+	<key>Networking</key>
+	<string>Rrjet</string>
+	<key>Notifications</key>
+	<string>Njoftime</string>
+	<key>Packaging</key>
+	<string>Paketim</string>
+	<key>Productivity</key>
+	<string>Produktivitet</string>
+	<key>Repositories</key>
+	<string>Reposita</string>
+	<key>Ringtones</key>
+	<string>Zile</string>
+	<key>SMS</key>
+	<string>SMS</string>
+	<key>Scripting</key>
+	<string>Scripting</string>
+	<key>Security</key>
+	<string>Siguri</string>
+	<key>Sliders</key>
+	<string>Slidera</string>
+	<key>Social</key>
+	<string>Sociale</string>
+	<key>System</key>
+	<string>Sistem</string>
+	<key>Terminal Support</key>
+	<string>Suportim i Terminalit</string>
+	<key>Text Editors</key>
+	<string>Editorë Teksti</string>
+	<key>Themes</key>
+	<string>Tema</string>
+	<key>Toys</key>
+	<string>Lodra</string>
+	<key>Tweaks</key>
+	<string>Tweaks</string>
+	<key>Utilities</key>
+	<string>Vegla</string>
+	<key>Wallpaper</key>
+	<string>Sfondi</string>
+	<key>Weather</key>
+	<string>Moti</string>
+	<key>WebClips</key>
+	<string>WebClips</string>
+	<key>Widgets</key>
+	<string>Widgets</string>
+	<key>eBooks</key>
+	<string>eBooks</string>
+</dict>
+</plist>

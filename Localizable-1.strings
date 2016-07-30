@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ABOUT</key>
+	<string>Rreth nesh</string>
+	<key>ABOUT_CYDIA</key>
+	<string>Rreth Cydia Installer</string>
+	<key>ACCEPT_NEW_COPY</key>
+	<string>Prano Kopjen E Re</string>
+	<key>ADD</key>
+	<string>Shto</string>
+	<key>ADD_ANYWAY</key>
+	<string>Shto Gjithsesi</string>
+	<key>ADD_SOURCE</key>
+	<string>Shto Repo</string>
+	<key>ADMINISTRATIVE_INFORMATION</key>
+	<string>Informacion Administrativ</string>
+	<key>ADVANCED_SEARCH</key>
+	<string>Kërkim I Avancuar</string>
+	<key>ALL_PACKAGES</key>
+	<string>Të Gjitha Paketat</string>
+	<key>ALL_SOURCES</key>
+	<string>Të Gjitha Repot</string>
+	<key>ALL_SOURCES_EX</key>
+	<string>listë e kombinuar paketash për këto repo</string>
+	<key>APPLE</key>
+	<string>Apple</string>
+	<key>AUTHOR</key>
+	<string>Autori</string>
+	<key>AVAILABLE_UPGRADES</key>
+	<string>Përditësimet e Disponueshme</string>
+	<key>BROWSER</key>
+	<string>Shfletuesi</string>
+	<key>BY</key>
+	<string>nga %@</string>
+	<key>CANCEL</key>
+	<string>Anullo</string>
+	<key>CANCEL_CLEAR</key>
+	<string>Anullo dhe Pastro</string>
+	<key>CANCEL_OPERATION</key>
+	<string>Anullo Veprimin</string>
+	<key>CANNOT_COMPLY</key>
+	<string>Nuk Mund t'a Plotësoj</string>
+	<key>CANNOT_COMPLY_EX</key>
+	<string>Modifikimet e kërkuara nuk mund të vazhdojnë për shkak të dependecave të kërkuara ose konfliktet që nuk mund që automatikisht të gjehen ose të rregullohen.</string>
+	<key>CANNOT_LOCATE_PACKAGE</key>
+	<string>Nuk Mund Të Lokalizoj Paketën</string>
+	<key>CHANGES</key>
+	<string>Ndryshime</string>
+	<key>CHANGE_PACKAGE_SETTINGS</key>
+	<string>Ndrysho Konfigurimin e Paketës</string>
+	<key>CLEAN_ARCHIVES</key>
+	<string>Arkiva të Pastër</string>
+	<key>CLEAR</key>
+	<string>Pastro</string>
+	<key>CLOSE</key>
+	<string>Mbyll</string>
+	<key>CLOSE_CYDIA</key>
+	<string>Mbyll Cydian</string>
+	<key>COLON_DELIMITED</key>
+	<string>%@: %@</string>
+	<key>COMING_SOON</key>
+	<string>Së Shpejti!</string>
+	<key>COMMA_DELIMITED</key>
+	<string>%@, %@</string>
+	<key>COMMERCIAL_APPLICATIONS</key>
+	<string>Aplikacione Komerciale</string>
+	<key>COMPLETE</key>
+	<string>Kompletuar</string>
+	<key>COMPLETE_UPGRADE</key>
+	<string>Përditësim i Kompletuar</string>
+	<key>CONFIGURATION_UPGRADE</key>
+	<string>Përditësim Konfigurimi</string>
+	<key>CONFIGURATION_UPGRADE_EX</key>
+	<string>Fajli pasues është ndryshuar si nga mbajtësi i paketës dhe nga ty (or for you by a script).</string>
+	<key>CONFIRM</key>
+	<string>Konfirmo</string>
+	<key>CONSOLE_PACKAGE</key>
+	<string>Kjo është një paketë konsole!</string>
+	<key>CONSOLE_UTILITIES_DAEMONS</key>
+	<string>Vegla Konsole &amp; Daemons</string>
+	<key>CONTINUE_QUEUING</key>
+	<string>Vazhdo Mbajtjen e Rradhës</string>
+	<key>COUNTS_NONZERO_EX</key>
+	<string>Pra, unë thjesht mblodha disa vlera të rëndësishme, dhe shuma nuk ishte zero. Kjo është e frikshme. Nuk e di pse nuk më pëlqen më kjo, por mendoj se APT ishte adamant.</string>
+	<key>CREDITS</key>
+	<string>Kredite</string>
+	<key>CYDIA_STORE</key>
+	<string>Dyqani i Cydias</string>
+	<key>DATABASE</key>
+	<string>Baza e Të Dhënave</string>
+	<key>DETAILS</key>
+	<string>Detaje</string>
+	<key>DEVELOPER</key>
+	<string>Zhvillues</string>
+	<key>DEVELOPERS_ONLY</key>
+	<string>Vetëm Për Zhvillues</string>
+	<key>DEVELOPER_EX</key>
+	<string>Çdo gjë, edhe gjëra internale të frikshme.</string>
+	<key>DISK_FREEING</key>
+	<string>Lirimi i Diskut</string>
+	<key>DISK_USING</key>
+	<string>Disku në Përdorim</string>
+	<key>DONATE_USING</key>
+	<string>Dhuro duke përdorur %@</string>
+	<key>DONE</key>
+	<string>Përfundo</string>
+	<key>DOUBLE_QUOTED</key>
+	<string>“%@”</string>
+	<key>DOWNGRADE</key>
+	<string>Bëj Downgrade</string>
+	<key>DOWNLOADING</key>
+	<string>Duke Shkarkuar</string>
+	<key>DOWNLOADING_</key>
+	<string>Duke Shkarkuar %@</string>
+	<key>EDIT</key>
+	<string>Modifiko</string>
+	<key>ELISION</key>
+	<string>%@...</string>
+	<key>ENTERED_BY_USER</key>
+	<string>Vendosur nga Përdoruesi</string>
+	<key>ENTER_APT_URL</key>
+	<string>Vendos URL Cydia/APT</string>
+	<key>ERROR</key>
+	<string>Gabim</string>
+	<key>ESSENTIAL_UPGRADE</key>
+	<string>Përditësim i Nevojshëm</string>
+	<key>ESSENTIAL_UPGRADES</key>
+	<string>%d Përditësime të Nevojshme</string>
+	<key>ESSENTIAL_UPGRADE_EX</key>
+	<string>Një ose më shumë paketa të rëndësishme duhen përditësuar. Nëse këto përditësime nuk kryhen mund të ketë gabime</string>
+	<key>EXCLAMATION</key>
+	<string>%@!</string>
+	<key>EXIT_WHEN_COMPLETE</key>
+	<string>(Cydia do të mbyllet pas përfundimit.)</string>
+	<key>EXPANDED_SIZE</key>
+	<string>Pesha E Hapur</string>
+	<key>EXPERT</key>
+	<string>Ekspert</string>
+	<key>FAQ</key>
+	<string>FAQ</string>
+	<key>FEATURED_PACKAGES</key>
+	<string>Paketat tona</string>
+	<key>FILES</key>
+	<string>Filet</string>
+	<key>FILESYSTEM_CONTENT</key>
+	<string>Përmbajtje e Sistemit</string>
+	<key>FILES_INSTALLED_TO</key>
+	<string>filet u instaluan tek %@</string>
+	<key>FOLLOW_ON_TWITTER</key>
+	<string>Ndiq %@ në Twitter</string>
+	<key>FORCE_REMOVAL</key>
+	<string>Fshi me Forcë</string>
+	<key>FORCIBLY_CLEAR</key>
+	<string>Pastro me Forcë</string>
+	<key>FREE_APPLICATIONS</key>
+	<string>Aplikacione Falas</string>
+	<key>FREE_EXTENSIONS</key>
+	<string>Shtesa Falas</string>
+	<key>FREQUENTLY_ASKED_QUESTIONS</key>
+	<string>Pyetje të shpeshta</string>
+	<key>FROM</key>
+	<string>nga %@</string>
+	<key>FROWNY_PANTS</key>
+	<string>Frowny Pants</string>
+	<key>FUTURE_FEATURE_ROADMAP</key>
+	<string>Future Feature Roadmap</string>
+	<key>HACKER</key>
+	<string>Haker</string>
+	<key>HACKER_EX</key>
+	<string>Shton Vegla për Command Line</string>
+	<key>HALFINSTALLED_PACKAGE</key>
+	<string>Paketë gjysmë e instaluar</string>
+	<key>HALFINSTALLED_PACKAGES</key>
+	<string>%d Paketa gjysmë të instaluara</string>
+	<key>HALFINSTALLED_PACKAGE_EX</key>
+	<string>Kur skriptet e kësaj pakete dështojnë, ato ngelen në një gjendje të keqe të njohur si gjysmë-të instaluara ose gjysmë-të konfiguruara. Këto gabime nuk ikin dhe vazhdojnë të krijojnë probleme. Këto skripte mund të fshihen dhe paketat të fshihen me forcë</string>
+	<key>HOME</key>
+	<string>Shtëpia</string>
+	<key>ID</key>
+	<string>ID</string>
+	<key>IGNORED_UPGRADES</key>
+	<string>Përditësime të Injoruara</string>
+	<key>IGNORE_UPGRADES</key>
+	<string>Injoro Përditësimet</string>
+	<key>IGNORE_UPGRADES_EX</key>
+	<string>Mos përfshi këtë paketë kur përzgjedh Përditëso Të Gjitha.</string>
+	<key>ILLEGAL_PACKAGE_IDENTIFIER</key>
+	<string>Identifikuesi i paketës ilegal</string>
+	<key>INDIVIDUAL_SOURCES</key>
+	<string>Repo Inviduale</string>
+	<key>INSTALL</key>
+	<string>Instalo</string>
+	<key>INSTALLED</key>
+	<string>Të Instaluara</string>
+	<key>INSTALLED_BY_PACKAGE</key>
+	<string>I Instaluar Nga Një Paketë</string>
+	<key>INSTALLED_DETAILS</key>
+	<string>Paketë e Instaluar</string>
+	<key>INSTALLED_FILES</key>
+	<string>Fajle të Instaluara</string>
+	<key>INVALID_URL</key>
+	<string>URL e Pavlefshme</string>
+	<key>INVALID_URL_EX</key>
+	<string>Kjo nuk është një URL e vlefshme repoje. Kontrolloje dhe provoje përsëri</string>
+	<key>KEEP_OLD_COPY</key>
+	<string>Ruaj Kopjen e Vjetër</string>
+	<key>LOADING</key>
+	<string>Duke Ngarkuar...</string>
+	<key>LOADING_DATA</key>
+	<string>Duke Ngarkuar Të Dhëna</string>
+	<key>LOCAL</key>
+	<string>Lokale</string>
+	<key>LOGIN</key>
+	<string>Hyr</string>
+	<key>MAILING_LISTS</key>
+	<string>Listat e Postës</string>
+	<key>MAINTAINER</key>
+	<string>Kontakt</string>
+	<key>MANAGE</key>
+	<string>Menaxho</string>
+	<key>MODIFICATIONS</key>
+	<string>Modifikimet</string>
+	<key>MODIFY</key>
+	<string>Modifiko</string>
+	<key>MORE_INFORMATION</key>
+	<string>Më shumë Informacion</string>
+	<key>MORE_PACKAGE_SOURCES</key>
+	<string>Më Shumë Repo për Paketa</string>
+	<key>NAME</key>
+	<string>Emri</string>
+	<key>NETWORK_ERROR</key>
+	<string>Gabim rrjeti</string>
+	<key>NEVER_OR_UNKNOWN</key>
+	<string>Kurrë ose i Panjohur</string>
+	<key>NEW</key>
+	<string>E re</string>
+	<key>NEW_AT</key>
+	<string>E re tek %@</string>
+	<key>NEW_INSTALL</key>
+	<string>Instalim i ri</string>
+	<key>NO</key>
+	<string>Jo</string>
+	<key>NOTE</key>
+	<string>Shënim</string>
+	<key>NOT_RATED</key>
+	<string>I Pa Votuar</string>
+	<key>NOT_REPOSITORY</key>
+	<string>Nuk e Gjeta Repon</string>
+	<key>NOT_REPOSITORY_EX</key>
+	<string>Repoja e kerkuar nuk u gjet. Sigurohuni që e keni shkruar mirë ose URL-ja është ekzakte.</string>
+	<key>NO_SECTION</key>
+	<string>(S'ka seksion)</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OKAY</key>
+	<string>Dakord</string>
+	<key>PACKAGES</key>
+	<string>Paketat</string>
+	<key>PACKAGES_EX</key>
+	<string>Shih ose fshi paketat e insaluara më parë</string>
+	<key>PACKAGE_CANNOT_BE_FOUND</key>
+	<string>Paketa %@ nuk u gjet në repot e tua. Të rekomandoj të instalosh më shumë Repo</string>
+	<key>PACKAGE_CANNOT_BE_FOUND_EX</key>
+	<string>Ky problem mund të jetë shkaktuar një numër faktorësh të tjerë. Më i zakonshmi është se katalogu i paketave të tua nuk është përditësuar. Për të bërë Rifreskim, klikoni butoni Rifresko në tablelën "Changes" This package may simply no longer exist. It is also possible you are using an old firmware version: users should attempt to remain reasonably up to date with Apple's firmware releases.</string>
+	<key>PACKAGE_DAMAGED</key>
+	<string>Paketë e Dëmtuar</string>
+	<key>PACKAGE_DETAILS</key>
+	<string>Detajet e Paketës</string>
+	<key>PACKAGE_QUEUE</key>
+	<string>Rradha e Paketave</string>
+	<key>PARENTHETICAL</key>
+	<string>%@ (%@)</string>
+	<key>PASSWORD</key>
+	<string>fjalëkalim</string>
+	<key>PERFORM_SELECTIONS</key>
+	<string>Kryej Seleksione</string>
+	<key>PREPARE_ARCHIVES</key>
+	<string>Përgatit Arkivat</string>
+	<key>PREPARING_FILESYSTEM</key>
+	<string>Duke Përgatitur Filesistemin</string>
+	<key>PRODUCTS</key>
+	<string>Produkte</string>
+	<key>PURGE</key>
+	<string>Spastro</string>
+	<key>QUESTION</key>
+	<string>%@?</string>
+	<key>QUEUE</key>
+	<string>Rradha</string>
+	<key>QUEUED_FOR</key>
+	<string>I Rradhitur Për %@</string>
+	<key>Q_D</key>
+	<string>Q'd</string>
+	<key>REBOOT_DEVICE</key>
+	<string>Rindiz Pajisjej</string>
+	<key>RECENT</key>
+	<string>Të fundit</string>
+	<key>RECENT_CHANGES_UPDATES</key>
+	<string>Përditësimet/Ndryshimet e Fundit</string>
+	<key>RECOMMENDED_BOOKS</key>
+	<string>Libra të Rekomanduar</string>
+	<key>REFRESH</key>
+	<string>Rifresko</string>
+	<key>REFRESHING_DATA</key>
+	<string>Duke Rifreskuar të Dhënat</string>
+	<key>REINSTALL</key>
+	<string>Riinstalo</string>
+	<key>RELOAD</key>
+	<string>Ringarko</string>
+	<key>RELOADING_DATA</key>
+	<string>Duke Ringarkuar Të Dhënat</string>
+	<key>RELOAD_SPRINGBOARD</key>
+	<string>Ringarko SpringBoardin</string>
+	<key>REMOVE</key>
+	<string>Fshij</string>
+	<key>REMOVING_ESSENTIALS</key>
+	<string>Duke Fshire Të Nevojshmet</string>
+	<key>REMOVING_ESSENTIALS_EX</key>
+	<string>Ky veprim përfshin fshirjen e nj ose më shumë paketave që nevojiten për operimin e vazhdueshëm të Cydias ose vetë iOS, ju mund të mos jeni në gjendje të perdorni Cydian ose të riparoni dëmet</string>
+	<key>REPAIRING</key>
+	<string>Duke Riparuar</string>
+	<key>REPOSITORY_SIGNATURE</key>
+	<string>Shih Firmosjen e Repositës</string>
+	<key>REQUEST_ADVERTISING_SPACE</key>
+	<string>Kërko Hapësirë Për Reklama</string>
+	<key>REQUIREMENTS_FOR_LISTING</key>
+	<string>Disponimet për listim</string>
+	<key>RESTART_SPRINGBOARD</key>
+	<string>Ristarto SpringBoardin</string>
+	<key>RESUBMIT_FORM</key>
+	<string>A je i sigurt se do të kërkosh këtë formular përsëri ?</string>
+	<key>RESUMING_AT</key>
+	<string>Duke Vazhduar tek</string>
+	<key>RETURN_TO_CYDIA</key>
+	<string>Kthehu tek Cydia</string>
+	<key>ROLE_EX</key>
+	<string>Jo çdo paketë e disponueshme nga Cydia është e disenjuar për tu përdorur nga të gjithë. Ju lutem kategirozoni veten tuaj.
+
+Kjo mund të ndryshohet nga "Cilësimet poshte tabelës "Menaxho" (në iPhone dhe iPod touch), ose tek "Repot" (në iPad).</string>
+	<key>RUNNING</key>
+	<string>Duke u kryer</string>
+	<key>SAFE</key>
+	<string>I sigurt</string>
+	<key>SAMPLE</key>
+	<string>I thjeshtë</string>
+	<key>SCREENSHOT</key>
+	<string>Screenshot</string>
+	<key>SCREENSHOTS</key>
+	<string>Screenshot-e</string>
+	<key>SEARCH</key>
+	<string>Kërko</string>
+	<key>SEARCH_EX</key>
+	<string>Emrat dhe Përshkrimet e Paketave</string>
+	<key>SECTION</key>
+	<string>Seksion</string>
+	<key>SECTIONS</key>
+	<string>Seksione</string>
+	<key>SECTION_VISIBILITY</key>
+	<string>Shikueshmëria e Seksionit</string>
+	<key>SEE_WHAT_CHANGED</key>
+	<string>Shih Ndryshimet</string>
+	<key>SETTINGS</key>
+	<string>Cilësimet</string>
+	<key>SHOW_ALL_CHANGES</key>
+	<string>Trego Çdo Ndryshim</string>
+	<key>SHOW_ALL_CHANGES_EX</key>
+	<string>Ndryshime thjesht tregon përditësime për paketat e instaluara dhe për të zvogëluar spam-in për paketuesit. Aktivizo këtë tek kjo paketë edhe kur nuk është e instaluar.</string>
+	<key>SIGNED_PACKAGE</key>
+	<string>Kjo paketë është firmosur</string>
+	<key>SIMPLE</key>
+	<string>I Thjeshtë</string>
+	<key>SINGLE_QUOTED</key>
+	<string>‘%@’</string>
+	<key>SLASH_DELIMITED</key>
+	<string>%@ / %@</string>
+	<key>SOURCES</key>
+	<string>Repot</string>
+	<key>SOURCES_EX</key>
+	<string>Listo repot aktuale dhe shto ato të personalizuara që njeh</string>
+	<key>SOURCE_DETAILS</key>
+	<string>Informacion për Repon</string>
+	<key>SOURCE_WARNING</key>
+	<string>Paralajmërim për Repon</string>
+	<key>SPONSOR</key>
+	<string>Sponsor</string>
+	<key>SPONSORING_PRODUCTS</key>
+	<string>Produkte Sponsorizuese</string>
+	<key>STATISTICS</key>
+	<string>Statistika</string>
+	<key>STILL_BROKEN_EX</key>
+	<string>Prova për të rregulluar zgjedhjet e prishura nuk u dipuk se ndihmoi</string>
+	<key>STORAGE</key>
+	<string>Hapësira</string>
+	<key>STORAGE_EX</key>
+	<string>Shih sa vend ke për paketat e reja.</string>
+	<key>SUBMIT</key>
+	<string>Dërgo</string>
+	<key>SUPPORT_KNOWN_ISSUES</key>
+	<string>Suportim &amp; Probleme të njohura</string>
+	<key>TEMPORARY_IGNORE</key>
+	<string>Injoro (Përkohësisht)</string>
+	<key>THANK_YOU</key>
+	<string>Faleminderit</string>
+	<key>UNABLE_TO_COMPLY</key>
+	<string>Nuk mund t'a plotësoj</string>
+	<key>UNABLE_TO_COMPLY_EX</key>
+	<string>Ky veprim përfshin fshirjen e nj ose më shumë paketave që nevojiten për operimin e vazhdueshëm të Cydias ose vetë iOS. Në mënyrë që të vazhdoni dhe t'a kryeni veprimin me forcë aktivizoni Të Avancuara tek Cilësimet</string>
+	<key>UNABLE_TO_LOAD</key>
+	<string>Nuk mund t'a Ngarkoj</string>
+	<key>UNKNOWN</key>
+	<string>I Panjohur</string>
+	<key>UNSAFE</key>
+	<string>Jo i sigurt</string>
+	<key>UPDATING_DATABASE</key>
+	<string>Duke përditësuar Bazën e Të Dhënave</string>
+	<key>UPDATING_SOURCES</key>
+	<string>Duke Përditësuar Repot</string>
+	<key>UPGRADE</key>
+	<string>Përditëso</string>
+	<key>UPGRADE_ESSENTIAL</key>
+	<string>Përditëso Të Nevojshmet</string>
+	<key>UPGRADING_TO_READ_THIS</key>
+	<string>Duke Përditësuar Tek %@? Lexo Këtë</string>
+	<key>USER</key>
+	<string>Përdorues</string>
+	<key>USERNAME</key>
+	<string>emri i përduruesit</string>
+	<key>USER_EX</key>
+	<string>Aplikacione, Tweaks, dhe Tema.</string>
+	<key>USER_GUIDES</key>
+	<string>Guidat e Përdoruesit</string>
+	<key>VERIFICATION_ERROR</key>
+	<string>Gabim Verifikimi</string>
+	<key>VERIFYING_URL</key>
+	<string>Duke Verifikuar URL</string>
+	<key>VERSION</key>
+	<string>Versioni</string>
+	<key>WARNING</key>
+	<string>Paralajmërim</string>
+	<key>WELCOME_TO_CYDIA</key>
+	<string>Mirësevjen tek Cydia™</string>
+	<key>WHO_ARE_YOU</key>
+	<string>Kush je ti?</string>
+	<key>YES</key>
+	<string>Po</string>
+</dict>
+</plist>
